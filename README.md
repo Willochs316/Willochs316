@@ -1,4 +1,5 @@
-![profile 
+<img src='https://dev-to-uploads.s3.amazonaws.com/uploads/articles/2ovixe4kegyavact3xwg.jpg' object-fit='contain' alt='react-image' width=1300 />
+
 
 # About Me <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>:
 Analytical Software Developer with experience in software design and development. Practiced at aligning user needs with design and operating within time and budget constraints.
