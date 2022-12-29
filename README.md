@@ -1,4 +1,4 @@
-![profile image](https://media4.giphy.com/media/jdPMeyv9rn0hZHh8n9/200w.webp?cid=ecf05e4796ztw6yusslhk601rq44u6voyh0lg2tgu31ydciv&rid=200w.webp&ct=s)
+![profile 
 
 # About Me <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>:
 Analytical Software Developer with experience in software design and development. Practiced at aligning user needs with design and operating within time and budget constraints.
