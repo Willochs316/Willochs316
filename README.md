@@ -10,10 +10,6 @@ Analytical Software Developer with experience in software design and development
 - 🌱 Conceived and built optimized landing pages in Html and CSS including JavaScript integration and cross browser compatibility to support marketing...
 - 📫 How to reach me - willochs316@gmail.com...
 
-<br>
-<img src="https://komarev.com/ghpvc/?username=Willochs316&label=Profile%20views&color=0e75b6&style=flat" alt="Willochs316" />
-
-
 ### :hammer_and_wrench: Languages and Tools :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
