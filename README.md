@@ -1,5 +1,5 @@
 <div align='center'>
-<img src='https://res.cloudinary.com/practicaldev/image/fetch/s--3zWuwYa3--/c_imagga_scale,f_auto,fl_progressive,h_900,q_auto,w_1600/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/pdib9r9rk5j1m7oala1p.png' object-fit='contain' alt='react-image' width='1300px' />
+<img src='https://process.fs.teachablecdn.com/ADNupMnWyR7kCWRvm76Laz/resize=width:705/https://www.filepicker.io/api/file/fGWjtyQtG4JE7UXgaPAN' object-fit='contain' alt='react-image' width='1300px' />
 </div>
 
 
