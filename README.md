@@ -8,6 +8,7 @@ Analytical Software Developer with experience in software design and development
 
 - 👀 Provided prompt solutions and proactive troubleshooting support to swiftly resolve subtle and complex issues.
 - 🌱 Determined areas for improvements by periodically monitoring the current company systems to consistently boost business efficiency.
+- 💡 Employ best coding practices and object-oriented programming techniques to work on different software development projects.
 - 📫 How to reach me - willochs316@gmail.com...
 
 ### :hammer_and_wrench: Languages and Tools :
