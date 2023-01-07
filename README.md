@@ -6,8 +6,8 @@
 # About Me <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>:
 Analytical Software Developer with experience in software design and development. Practiced at aligning user needs with design and operating within time and budget constraints.
 
-- 👀 Proactively performing independent research and utilize libraries and other technical resources to guide new product development and process ideas.
-- 🌱 Conceived and built optimized landing pages in Html and CSS including JavaScript integration and cross browser compatibility to support marketing...
+- 👀 Provided prompt solutions and proactive troubleshooting support to swiftly resolve subtle and complex issues.
+- 🌱 Determined areas for improvements by periodically monitoring the current company systems to consistently boost business efficiency.
 - 📫 How to reach me - willochs316@gmail.com...
 
 ### :hammer_and_wrench: Languages and Tools :
