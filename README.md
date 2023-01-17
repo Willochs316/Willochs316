@@ -32,12 +32,9 @@ Analytical Software Developer with experience in software design and development
 <br>
 <br>
 
-<center>
-  <table>
-  <tr>
-      <td><img align="left" src="https://github-readme-stats.vercel.app/api?username=willochs316&count_private=true&show_icons=true&theme=algolia&layout=compact" /></td>
-      <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=willochs316&theme=algolia" /></td>    
-     
-  </tr>   
-  </table>
-</center>
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Willochs316&theme=algolia)](https://git.io/streak-stats)
+  
+[![Willochs' GitHub stats](https://github-readme-stats.vercel.app/api?username=Willochs316&hide=stars,prs&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Willochs316&layout=compact&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
