@@ -14,6 +14,15 @@ Analytical Software Developer with experience in software design and development
 - 💡 Employ best coding practices and object-oriented programming techniques to work on different software development projects.
 - 📫 How to reach me - willochs316@gmail.com...
 
+---
+
+### Connect with me
+
+[<img src="https://img.shields.io/badge/Twitter-1DA1F2?&logo=twitter&logoColor=white"/>](https://twitter.com/_willochs316)
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/willochs-ojigbo-a73108196/)
+[<img src="https://img.shields.io/badge/YouTube-FF0000?&logo=youtube&logoColor=white"/>](https://www.youtube.com/)
+
+
 ### :hammer_and_wrench: Languages and Tools :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
