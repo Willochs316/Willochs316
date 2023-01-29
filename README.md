@@ -32,6 +32,14 @@ Analytical Software Developer with experience in software design and development
 <br>
 <br>
 
+---
+
+### 📚 Latest Blog Posts
+
+<!-- BLOG:START -->
+- [Infinite-Scroll And GitHub REST API](https://willochs316.hashnode.dev/infinite-scroll-and-github-rest-api)
+
+---
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Willochs316&theme=algolia)](https://git.io/streak-stats)
   
