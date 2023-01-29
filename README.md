@@ -4,6 +4,10 @@
 
 
 # About Me <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>:
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=React+Native,+Full-Stack+Engineer;Open-Source+Enthusiast;Artisan+Lover;Blogger;YouTuber;and+Script+Writer!;)](https://git.io/typing-svg)
+
+
 Analytical Software Developer with experience in software design and development. Practiced at aligning user needs with design and operating within time and budget constraints.
 
 - 👀 Provided prompt solutions and proactive troubleshooting support to swiftly resolve subtle and complex issues.
