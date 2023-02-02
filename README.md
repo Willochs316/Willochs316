@@ -50,6 +50,7 @@ Analytical Software Developer with experience in software design and development
 
 <!-- BLOG:START -->
 - [Infinite-Scroll And GitHub REST API](https://willochs316.hashnode.dev/infinite-scroll-and-github-rest-api)
+- [How To Use Styled-Components In React](https://willochs316.hashnode.dev/how-to-use-styled-components-in-react)
 
 ---
 
