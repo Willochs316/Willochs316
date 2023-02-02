@@ -54,11 +54,13 @@ Analytical Software Developer with experience in software design and development
 
 ---
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Willochs316&theme=algolia)](https://git.io/streak-stats)
-  
-[![Willochs' GitHub stats](https://github-readme-stats.vercel.app/api?username=Willochs316&hide=stars,prs&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+<img align="center" height="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Willochs316&layout=compact&langs_count=16&theme=algolia"/>
+<br />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=Willochs316&show_icons=true&theme=transparent&include_all_commits=true&count_private=true&hide=stars,prs"/>
+<br />
+<img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=Willochs316&theme=algolia"/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Willochs316&layout=compact&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+---
 
 <h3> :star: My favorite GitHub Repos</h3>
 
