@@ -60,5 +60,13 @@ Analytical Software Developer with experience in software design and development
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Willochs316&layout=compact&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
+<h3> :star: My favorite GitHub Repos</h3>
 
 ![Snake animation](https://github.com/Willochs316/Willochs316/blob/output/github-contribution-grid-snake.svg)
+
+
+<div align="center">
+    <a href="https://git.io/typing-svg">
+        <img alt="thanks for your visit" src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&size=24&pause=1000&center=true&vCenter=true&width=435&lines=Thanks+for+your+visit!" >
+    </a>
+</div>
