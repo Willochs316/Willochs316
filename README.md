@@ -70,3 +70,4 @@ Analytical Software Developer with experience in software design and development
         <img alt="thanks for your visit" src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&size=24&pause=1000&center=true&vCenter=true&width=435&lines=Thanks+for+your+visit!" >
     </a>
 </div>
+
