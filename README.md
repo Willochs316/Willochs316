@@ -60,3 +60,5 @@ Analytical Software Developer with experience in software design and development
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Willochs316&layout=compact&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
+
+![Snake animation](https://github.com/Willochs316/Willochs316/blob/output/github-contribution-grid-snake.svg)
