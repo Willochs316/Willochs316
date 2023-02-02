@@ -59,3 +59,5 @@ Analytical Software Developer with experience in software design and development
 [![Willochs' GitHub stats](https://github-readme-stats.vercel.app/api?username=Willochs316&hide=stars,prs&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Willochs316&layout=compact&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+
+![snake gif](https://github.com/Willochs316/Willochs/blob/output/github-contribution-grid-snake.gif)
