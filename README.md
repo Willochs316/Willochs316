@@ -64,7 +64,8 @@ Analytical Software Developer with experience in software design and development
 
 <h3> :star: My favorite GitHub Repos</h3>
 
-![Snake animation](https://github.com/Willochs316/Willochs316/blob/output/github-contribution-grid-snake.svg)
+
+<img src='https://github.com/Willochs316/Willochs316/blob/output/github-contribution-grid-snake.svg' width='1920px'>
 
 
 <div align="center">
