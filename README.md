@@ -14,7 +14,7 @@ Analytical Software Developer with experience in software design and development
 - 💡 Employ best coding practices and object-oriented programming techniques to work on different software development projects.
 - 📫 How to reach me - willochs316@gmail.com...
 
----
+<img align='center'  src="./assets/borderseperator.gif" width='1920px'>
 
 ### Connect with me
 
