@@ -64,7 +64,9 @@ Analytical Software Developer with experience in software design and development
 - **🏗️ Code editors:**
 <a href="https://visualstudio.microsoft.com/"><img src="https://1000logos.net/wp-content/uploads/2020/08/Visual-Studio-Logo.png" height=25></a> <a href="https://code.visualstudio.com/"><img src="https://seeklogo.com/images/V/visual-studio-code-logo-449D71944F-seeklogo.com.png" height=25></a><a href="https://notepad-plus-plus.org/"><img src="https://notepad-plus-plus.org/images/logo.svg" height=25></a>
 
----
+
+<img align='center'  src="./assets/borderseperator.gif" width='1920px'>
+
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
