@@ -40,7 +40,8 @@ Analytical Software Developer with experience in software design and development
 
 #### What my skill set looks like?
 
-`Microsoft Technologies` `Database management` `Project management` `User experience` `Debugging` `Critical thinking` `Problem solving skills` `Strong researching skills` `Organization skills` `Time management` `Communication skills`
+`Microsoft Technologies` `Database management` `Project management` `User experience` `Debugging` `Critical thinking` 
+`Strong researching skills` `Organization skills` `Time management` `Communication skills` `Problem solving skills`
 
 - 🖥 **Front-end:** 
   - **📜 Languages:** • `🧙🏻 c ` • `🙎🏼‍ python ` • `👨‍🏭 javascript ` • `👨‍🔧 typescript ` • `🧚🏻‍♂️ react native ` • `👨🏻‍🎨 node `
