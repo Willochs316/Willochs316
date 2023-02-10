@@ -13,6 +13,7 @@ Analytical Software Developer with experience in software design and development
 - 🌱 Determined areas for improvements by periodically monitoring the current company systems to consistently boost business efficiency.
 - 🔩 Modified HTML, JavaScript, and CSS web pages to optimize the page's performance for faster loading and browsing.
 - 💡 Employ best coding practices and object-oriented programming techniques to work on different software development projects.
+- 👨🏽‍🔧 system capabilities to resolve programs on program intent and output requirements.
 - 📫 How to reach me - willochs316@gmail.com...
 
 <img align='center'  src="./assets/borderseperator.gif" width='1920px'>
