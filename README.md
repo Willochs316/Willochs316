@@ -96,7 +96,9 @@ Analytical Software Developer with experience in software design and development
 <br />
 <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=Willochs316&theme=algolia"/>
 
----
+
+<img align='center'  src="./assets/borderseperator.gif" width='1920px'>
+
 
 <h3> :star: My favorite GitHub Repos</h3>
 
