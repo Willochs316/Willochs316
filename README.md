@@ -40,7 +40,7 @@ Analytical Software Developer with experience in software design and development
 
 #### What my skill set looks like?
 - 🖥 **Front-end:** 
-  - **📜 Languages:** • `🧙🏻 react ` • `👨‍🏭 typescript` • `👨‍🔧 react native` • `🧚🏻‍♂️ node` • `👨🏻‍🎨 vue `
+  - **📜 Languages:** • `🧙🏻 c ` • `🙎🏼‍ python ` • `👨‍🏭 javascript ` • `👨‍🔧 typescript ` • `🧚🏻‍♂️ react native ` • `👨🏻‍🎨 node `
   - **🔬 Frameworks:**  
     - **🌐 Web:** • [Create React App](https://reactjs.org/docs/create-a-new-react-app.html) • [React-Router](https://reactrouter.com/en/main) • [React Native](https://reactnative.dev/)
     - **📱 Mobile:** • [React Native](https://reactnative.dev/) • [Flutter](https://flutter.dev/) • [NativeScript](https://nativescript.org/)
