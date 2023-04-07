@@ -67,9 +67,7 @@ Analytical Software Developer with experience in software design and development
 
 <img align='center'  src="./assets/borderseperator.gif" width='1920px'>
 
-
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31f4gutzmgyxnvdiedlrsvndiqlm&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=31f4gutzmgyxnvdiedlrsvndiqlm&redirect=true)
-
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
