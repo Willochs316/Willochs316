@@ -5,7 +5,7 @@
 
 # About Me <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>:
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=React+Native,+Full-Stack+Engineer;Open-Source+Enthusiast;Artisan+Lover;Blogger;YouTuber;and+Script+Writer!;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=React+Native,+TypeScript,+React;+Vue,+Node,+Express;+Nestjs,+Full-Stack+Engineer;Open-Source+Enthusiast;Artisan+Lover;Blogger;YouTuber;and+Script+Writer!;)](https://git.io/typing-svg)
 
 Analytical Software Developer with experience in software design and development. Practiced at aligning user needs with design and operating within time and budget constraints.
 
@@ -112,7 +112,7 @@ Analytical Software Developer with experience in software design and development
 
 <div align="center">
     <a href="https://git.io/typing-svg">
-        <img alt="thanks for your visit" src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&size=24&pause=1000&center=true&vCenter=true&width=435&lines=Thanks+for+your+visit!" >
+        <img alt="thanks for your visit" src="https://readme-typing-svg.demolab.com?font=Calibri+Slab&size=24&pause=1000&center=true&vCenter=true&width=840&lines=Thank+you+for+checking+out+my+profile.;+I'm+always+looking+to+connect+with;+likeminded+individuals,+so+please+feel+free;+to+send+me+a+message+if+you'd+like+to+chat+further.">
     </a>
 </div>
 
