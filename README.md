@@ -20,7 +20,7 @@ Analytical Software Developer with experience in software design and development
 
 ### Connect with me
 
-[<img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&logo=instagram&logoColor=white"/>](https://twitter.com/willochs.316)
+[<img src="https://img.shields.io/badge/Instagram-bc2a8d?&logo=instagram&logoColor=white"/>](https://instagram.com/willochs.316)
 [<img src="https://img.shields.io/badge/Twitter-1DA1F2?&logo=twitter&logoColor=white"/>](https://twitter.com/willochs_dev)
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/willochs-ojigbo-a73108196/)
 [<img src="https://img.shields.io/badge/YouTube-FF0000?&logo=youtube&logoColor=white"/>](https://www.youtube.com/)
