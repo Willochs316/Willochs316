@@ -49,7 +49,7 @@ Analytical Software Developer with experience in software design and development
 - 🖥 **Front-end:** 
   - **📜 Languages:** • `🧙🏻 c ` • `🙎🏼‍ python ` • `👨‍🏭 javascript ` • `👨‍🔧 typescript ` • `🧚🏻‍♂️ react native ` • `👨🏻‍🎨 node `
   - **🔬 Frameworks:**  
-    - **🌐 Web:** • [React](https://reactjs.org/docs/create-a-new-react-app.html) • [Vue.js](https://vuejs.org/) • [Angular](https://angular.io/) • [Ember.js](https://guides.emberjs.com/release/getting-started/quick-start/) • [Node.js](https://nodejs.org/ro/docs)
+    - **🌐 Web:** • [React](https://reactjs.org/docs/create-a-new-react-app.html) • [Vue.js](https://vuejs.org/) • [Angular](https://angular.io/) • [Ember.js](https://guides.emberjs.com/release/getting-started/quick-start/) • [Next.js](https://nextjs.org/docs) • [Node.js](https://nodejs.org/ro/docs)
     - **📱 Mobile:** • [React Native](https://reactnative.dev/) • [Flutter](https://flutter.dev/) • [NativeScript](https://nativescript.org/)
 
 - 🗄️ **Back-end:**
