@@ -38,6 +38,7 @@ Analytical Software Developer with experience in software design and development
 - [Infinite-Scroll And GitHub REST API](https://willochs316.hashnode.dev/infinite-scroll-and-github-rest-api)
 - [How To Use Styled-Components In React](https://willochs316.hashnode.dev/how-to-use-styled-components-in-react)
 - [Master React and OMBD API: The Complete Guide to Building a Movie App](https://dev.to/willochs316/building-a-movie-app-with-react-and-ombd-api-a-step-by-step-guide-2p33)
+- [Styled Components and SCSS Which One Should You Use?](https://dev.to/willochs316/styled-components-and-scss-which-one-should-you-use-509a)
 
 ---
 
