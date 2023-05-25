@@ -39,7 +39,7 @@ Analytical Software Developer with experience in software design and development
 - [How To Use Styled-Components In React](https://willochs316.hashnode.dev/how-to-use-styled-components-in-react)
 - [Master React and OMBD API: The Complete Guide to Building a Movie App](https://dev.to/willochs316/building-a-movie-app-with-react-and-ombd-api-a-step-by-step-guide-2p33)
 - [Styled Components and SCSS Which One Should You Use?](https://dev.to/willochs316/styled-components-and-scss-which-one-should-you-use-509a)
-- [Enhancing Your Existing ReactJS Application with TypeScript and Absolute](https://dev.to/willochs316/enhancing-your-existing-reactjs-application-with-typescript-and-absolute-imports-hla)
+- [Enhancing Your Existing ReactJS Application with TypeScript and Absolute Imports](https://dev.to/willochs316/enhancing-your-existing-reactjs-application-with-typescript-and-absolute-imports-hla)
 
 ---
 
