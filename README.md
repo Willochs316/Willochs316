@@ -1,5 +1,5 @@
 <div align='center'>
-<img src='https://process.fs.teachablecdn.com/ADNupMnWyR7kCWRvm76Laz/resize=width:705/https://www.filepicker.io/api/file/fGWjtyQtG4JE7UXgaPAN' object-fit='contain' alt='react-image' width='1300px' />
+<img src='https://dev-to-uploads.s3.amazonaws.com/uploads/articles/8mqc9yhyba0w3eyz95ku.png' object-fit='contain' alt='react-image' width='1300px' />
 </div>
 
 
