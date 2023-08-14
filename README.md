@@ -41,6 +41,7 @@ Analytical Software Developer with experience in software design and development
 - [Styled Components and SCSS Which One Should You Use?](https://dev.to/willochs316/styled-components-and-scss-which-one-should-you-use-509a)
 - [Enhancing Your Existing ReactJS Application with TypeScript and Absolute Imports](https://dev.to/willochs316/enhancing-your-existing-reactjs-application-with-typescript-and-absolute-imports-hla)
 - [Fixing Absolute Path Issues Made Easy: Vite, React, TS](https://dev.to/willochs316/how-to-fix-absolute-path-not-working-in-vite-project-react-ts-3aj9)
+- [Creating GIFs with Giphy API and ReactJS: A Beginner's Guide.](https://dev.to/willochs316/creating-gifs-with-giphy-api-and-reactjs-a-beginners-guide-42d0)
 
 ---
 
