@@ -89,10 +89,6 @@ Analytical Software Developer with experience in software design and development
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-<h3> :star: My favorite GitHub Repos</h3>
-
-<img src='https://github.com/Willochs316/Willochs316/blob/output/github-contribution-grid-snake.svg' width='100%' object-fit='contain'>
-
 <div align="center">
     <a href="https://git.io/typing-svg">
         <img alt="thanks for your visit" src="https://readme-typing-svg.demolab.com?font=Calibri+Slab&size=24&pause=1000&center=true&vCenter=true&width=840&lines=Thank+you+for+checking+out+my+profile.;+I'm+always+looking+to+connect+with;+likeminded+individuals,+so+please+feel+free;+to+send+me+a+message+if+you'd+like+to+chat+further.">
