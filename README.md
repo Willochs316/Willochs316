@@ -32,6 +32,14 @@ Analytical Software Developer with experience in software design and development
 
 ---
 
+### 📚 Latest Videos
+
+<!-- BLOG:START -->
+- [Next.Js Tailwindcss Carousel SlideShow](https://www.youtube.com/watch?v=SIIQWdhpZoo&t=7s)
+- [How to create free MongoDB database and enable public access](https://www.youtube.com/watch?v=ua6bgF44Ecg&t=8s)
+
+---
+
 ### 📚 Latest Blog Posts
 
 <!-- BLOG:START -->
