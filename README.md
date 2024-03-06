@@ -32,7 +32,7 @@ Analytical Software Developer with experience in software design and development
 
 ---
 
-### 📚 Latest Videos
+### 🎬 Latest Videos
 
 <!-- BLOG:START -->
 - [Next.Js Tailwindcss Carousel SlideShow](https://www.youtube.com/watch?v=SIIQWdhpZoo&t=7s)
