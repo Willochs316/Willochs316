@@ -5,7 +5,8 @@
 
 # About Me <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>:
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=React+Native,+TypeScript,+React;+Vue,+Node,+Express;+Nestjs,+Full-Stack+Engineer;Open-Source+Enthusiast;Artisan+Lover;Blogger;YouTuber;and+Script+Writer!;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Fullstack+Web+and+Mobile+Engineer;Open-Source+Enthusiast;YouTuber;and+Technical+Content+Writer!;&width=800)](https://git.io/typing-svg)
+
 
 - 📫 How to reach me - willochs316@gmail.com...
 
