@@ -2,7 +2,6 @@
 <img src='https://dev-to-uploads.s3.amazonaws.com/uploads/articles/8mqc9yhyba0w3eyz95ku.png' object-fit='contain' alt='react-image' width='1300px' />
 </div>
 
-
 # About Me <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>:
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Fullstack+Web+and+Mobile+Engineer;Open-Source+Enthusiast;YouTuber;and+Technical+Content+Writer!;&width=800)](https://git.io/typing-svg)
@@ -94,4 +93,3 @@
         <img alt="thanks for your visit" src="https://readme-typing-svg.demolab.com?font=Calibri+Slab&size=24&pause=1000&center=true&vCenter=true&width=840&lines=Thank+you+for+checking+out+my+profile.;+I'm+always+looking+to+connect+with;+likeminded+individuals,+so+please+feel+free;+to+send+me+a+message+if+you'd+like+to+chat+further.">
     </a>
 </div>
-
