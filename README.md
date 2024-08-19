@@ -7,13 +7,6 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=React+Native,+TypeScript,+React;+Vue,+Node,+Express;+Nestjs,+Full-Stack+Engineer;Open-Source+Enthusiast;Artisan+Lover;Blogger;YouTuber;and+Script+Writer!;)](https://git.io/typing-svg)
 
-Analytical Software Developer with experience in software design and development. Practiced at aligning user needs with design and operating within time and budget constraints.
-
-- 👀 Eliminated obstacles and maintained smooth operations by quickly providing solutions and proactive troubleshooting support for both simple and complex issues.
-- 🌱 Maximized business efficiency by consistently identifying areas for improvement through regular monitoring of company systems and implementing effective solutions.
-- 🔩 Improved website speed and user experience by modifying HTML, JavaScript, and CSS pages to optimize page performance for faster loading and browsing.
-- 💡 Employ best coding practices and object-oriented programming techniques to work on different software development projects.
-- 👨🏽‍🔧 Evaluated system capabilities to resolve programs on program intent and output requirements.
 - 📫 How to reach me - willochs316@gmail.com...
 
 <img align='center'  src="./assets/borderseperator.gif" width='1920px'>
